@@ -1,0 +1,2 @@
+# jdomainapp
+For jDomainApp development.
