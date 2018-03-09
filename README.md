@@ -1,7 +1,7 @@
 # jdomainapp
 A Java framework for domain-driven software development.
 
-Repository structure:
+# Repository structure:
 
 1/ dist: contains latest build domainapp.jar file
 
