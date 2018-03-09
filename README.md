@@ -1,2 +1,2 @@
 # jdomainapp
-For jDomainApp development.
+A Java framework for domain-driven software development.
